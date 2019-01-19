@@ -1,13 +1,14 @@
 # programmer-common-word-pronunciation
 程序员常用单词发音
 
-[TOC]
-
 ## 前言
+
 读音规则，英式读音
 
 ()标相应英文单词
+
 []标音标
+
 中文音译 1234分别代表一声、二声、三声、四声
 
 ## 1.操作系统
@@ -101,7 +102,11 @@ AJAX	|['ei dʒæks]|A<sup>1</sup>债<sup>4</sup>克<sup>4</sup>斯<sup>1</sup>|-
 
 ---
 Reference：
+
 1.https://github.com/shimohq/chinese-programmer-wrong-pronunciation
+
 2.https://github.com/Windsooon/How-to-pronounce
+
 3.https://translate.google.cn/translate_tts?q=github&tl=en&tk=646911.1003548&client=webapp
+
 4.https://tool.lu/pronounce/
