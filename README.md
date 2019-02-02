@@ -110,3 +110,9 @@ Reference：
 3.https://translate.google.cn/translate_tts?q=github&tl=en&tk=646911.1003548&client=webapp
 
 4.https://tool.lu/pronounce/
+
+---
+
+**License**
+
+[*License under CC BY-NC-ND 4.0: 署名-非商业使用-禁止演绎*](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
